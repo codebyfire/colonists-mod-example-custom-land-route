@@ -1,0 +1,6 @@
+{
+  "title": "Custom Land Route Example",
+  "description": "The example demonstates adding a speedy road and path type along with a modification to level 1 of the vanilla road layer building.",
+  "version": "1",
+  "versionBundle": 1
+}
